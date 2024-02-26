@@ -1,7 +1,7 @@
 import sys
 
-if sys.argv[1] == "LANL":
-	print("Santa Fe")
+if sys.argv[1] == "Phase":
+	print("Seattle")
 
 else:
 	print("good luck")
